@@ -1,0 +1,13 @@
+name: Level 8 - Pull Request
+
+on:
+  pull_request_target:
+    types:
+      - opened
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo You opened a pull request! To continue to the next level, change the secrets.txt password to GitIsCool
