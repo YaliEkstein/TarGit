@@ -29,10 +29,11 @@
 </p>
 
 ## שלב 0 –GitHub, clone & config 
-- וודאו שיש לכם.ן `git` על המחשב.
+- וודאו שיש לכם.ן [`git`](https://www.google.com/search?q=download+git+for+windows) על המחשב.
 - תגדירו את השם והאימייל שלכם ([`global config`](https://www.google.com/search?q=git+global+config))
 - פתחו חשבון `GitHub`.
-- כנסו לקישור הבא <הכנס קישור כאן>.
+- מלאו את פרטי החשבון [בטופס הבא](https://forms.gle/MHyxJjmCh8MSHHZg8).
+- אשרו את ההזמנה שתשלח לכם במייל.
 - עשו [`clone`](https://www.google.com/search?q=git+clone) לתיקייה לבחירתכם על המחשב.
 - כל הכבוד! עשיתם.ן `clone`, עכשיו תוכלו להריץ את הקובץ `NextLevel.exe`.
 
