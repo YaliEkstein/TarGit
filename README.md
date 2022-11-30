@@ -35,12 +35,14 @@
 - מלאו את פרטי החשבון [בטופס הבא](https://forms.gle/MHyxJjmCh8MSHHZg8).
 - אשרו את ההזמנה שתשלח לכם במייל.
 - עשו [`clone`](https://www.google.com/search?q=git+clone) לתיקייה לבחירתכם על המחשב.
-- כל הכבוד! עשיתם.ן `clone`, עכשיו תוכלו להריץ את הקובץ `NextLevel.exe`.
+- כל הכבוד! עשיתם.ן `clone`, עכשיו תוכלו להריץ את הקובץ `NextLevel.exe` על ידי [`NextLevel.exe/.`](https://www.google.com/search?q=run+exe+file+in+git+bash)
+- בעיה שיכולה להיווצר היא שחסר לכם.ן במחשב Cygwin. רק אם חסר לכם.ן [התקינו](https://www.google.com/search?q=cygwin+download) והוסיפו את `C:\cygwin64\bin` ל-[`environment variables`](https://www.google.com/search?q=add+to+environment+variables)
 
 ## שלב 1 – status, add & commit
 - הריצו את הפקודה [`git status`](https://www.google.com/search?q=git+status)!
 - שימו לב לקובץ חדש שנוצר בתיקייה, השם שלו מופיע באדום (**add**om). 
 - הוסיפו אותו לפרויקט עם הפקודה [`git add`](https://www.google.com/search?q=git+add) ושם הקובץ.
+- התעלמו מהערות של warning על CRLF.
 - הריצו את הפקודה `git status`!!
 - שימו לב לשינוי בהדפסה, השם שלו מופיע בירוק (yaroC). 
 - שמרו את הגרסה ([`commit`](https://www.google.com/search?q=git+commit)) הזו. תנו את ההערה / ההודעה הבאה:
@@ -79,8 +81,9 @@
 ## שלב 6 – revert & cherry-pick
 - הבינו [הדמיון והשוני](https://www.google.com/search?q=git+difference+between+revert+and+cherry+pick) בין `revert` ל-`cherry-pick`.
 - עדכנו את הגרסה של ה-`branch` ב-`remote`.
-תזכורת לשני דברים שכדאי תמיד לעשות: `git status` בכל הזדמנות ו-`pull` לפני `push`.
-- הריצו את ``NextLevel.exe`` התקין. במידה ועולה שאלה לגבי Unlink, הקישו `n` ואנטר.
+- שימו לב לשינוי שנעשה לקובץ `NextLevel.exe` ב-`commits` קודמים.
+- תזכורת לשני דברים שכדאי תמיד לעשות: `git status` בכל הזדמנות ו-`pull` לפני `push`.
+- הריצו את ``NextLevel.exe`` בגרסתו הישנה. במידה ועולה שאלה לגבי Unlink, הקישו `n` ואנטר.
 
 ## שלב 7 – merge conflict
 - בדקו שאתם על ה-`branch` שיצרתם.ן.
