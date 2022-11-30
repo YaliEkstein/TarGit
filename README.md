@@ -35,8 +35,9 @@
 - מלאו את פרטי החשבון [בטופס הבא](https://forms.gle/MHyxJjmCh8MSHHZg8).
 - אשרו את ההזמנה שתשלח לכם.ן במייל.
 - עשו [`clone`](https://www.google.com/search?q=git+clone) לתיקייה לבחירתכם על המחשב.
-- כל הכבוד! עשיתם.ן `clone`, עכשיו תוכלו להריץ את הקובץ `NextLevel.exe`.על ידי [`./NextLevel.exe`](https://www.google.com/search?q=run+exe+file+in+git+bash)
-- בעיה שיכולה להיווצר היא שחסר לכם.ן במחשב Cygwin. רק אם חסר לכם!, [תתקינו](https://www.google.com/search?q=cygwin+download) ותוסיפו את C:\cygwin64\bin ל-[`environment variables`](https://www.google.com/search?q=add+to+environment+variables)
+- כל הכבוד! עשיתם.ן `clone`, עכשיו תוכלו להריץ את הקובץ `NextLevel.exe` על ידי [`NextLevel.exe/.`](https://www.google.com/search?q=run+exe+file+in+git+bash)
+- בעיה שיכולה להיווצר היא שחסר לכם.ן במחשב Cygwin. רק אם חסר לכם.ן [התקינו](https://www.google.com/search?q=cygwin+download) והוסיפו את `C:\cygwin64\bin` ל-[`environment variables`](https://www.google.com/search?q=add+to+environment+variables)
+
 
 ## שלב 1 – status, add & commit
 - הריצו את הפקודה [`git status`](https://www.google.com/search?q=git+status)!
